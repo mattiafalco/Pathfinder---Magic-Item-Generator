@@ -2,4 +2,4 @@
 Random generator of magic item for Pathfinder RPG in Italian.
 
 ## Procedure
-- Collecting the needed data from Scraping Golarion website.
+- Scraping data from [Golarion website](https://golarion.altervista.org/wiki/Pagina_principale).
