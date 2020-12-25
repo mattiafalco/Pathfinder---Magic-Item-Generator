@@ -1,0 +1,52 @@
+d%,Armatura Minore Inferiore,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01-50,Giaco di Maglia in Mithral,Armatura minore inferiore,Armatura,1.100 mo,5 kg,Manuale di Gioco
+51-100,Armatura  Perfetta  o armatura non magica fatta di  Materiale Speciale,Armatura minore inferiore,Armatura,Variabile,-,-
+d%,Armatura Minore Superiore,Prezzo,Peso,Fonte,,
+01-33,Giaco delle Nebbie,Armatura inferiore superiore,Armatura,2.250 mo,"12,5 kg",Guida del Giocatore
+34-66,Pelle di Otyugh,Armatura inferiore superiore,Armatura,2.565 mo,"12,5 kg",Guida all'Equipaggiamento
+67-100,Armatura di Scaglie di Drago,Armatura inferiore superiore,Armatura,3.300 mo,25 kg,Manuale di Gioco
+d%,Armatura Media Inferiore,Prezzo,Peso,Fonte,,
+01-33,Cotta di Maglia Elfica,Armatura media inferiore,Armatura,5.150 mo,10 kg,Manuale di Gioco
+34-66,Pelle di Rinoceronte,Armatura media inferiore,Armatura,5.165 mo,"12,5 kg",Manuale di Gioco
+-,Armatura Persecutrice,Armatura media inferiore,Armatura,8.575 mo,10 kg,Guida alle Classi
+67-100,Pelle di Morlock,Armatura media inferiore,Armatura,8.910 mo,"7,5 kg",Guida all'Equipaggiamento
+d%,Armatura Media Superiore,Prezzo,Peso,Fonte,,
+01-15,Corazza di Piastre in Adamantio,Armatura media superiore,Armatura,10.200 mo,15 kg,Manuale di Gioco
+16-25,Veste dell'Indovino,Armatura media superiore,Armatura,10.300 mo,20 kg,Guida del Giocatore
+26-38,Armatura Completa Equestre,Armatura media superiore,Armatura,10.650 mo,25 kg,Guida all'Equipaggiamento
+39-50,Pelle di Anguilla Incantata,Armatura media superiore,Armatura,11.160 mo,"7,5 kg",Guida all'Equipaggiamento
+-,Pelle dell'Inseguimento Instancabile,Armatura media superiore,Armatura,11.165 mo,"12,5 kg",Guida alle Classi
+51-62,Cuoio Senz'Ossa,Armatura media superiore,Armatura,12.160 mo,"7,5 kg",Guida del Giocatore
+63-72,Veste Nera dell'Assassino,Armatura media superiore,Armatura,12.405 mo,5 kg,Guida del Giocatore
+73-86,Armatura Completa Pieghevole,Armatura media superiore,Armatura,12.650 mo,"- (fermaglio), 25 kg (armatura)",Guida del Giocatore
+87-100,Corazza di Piastre della Sparizione,Armatura media superiore,Armatura,15.200 mo,"7,5 kg",Guida all'Equipaggiamento
+d%,Armatura Maggiore Inferiore,Prezzo,Peso,Fonte,,
+01-13,Armatura degli Insulti,Armatura maggiore inferiore,Armatura,16.175 mo,10 kg,Guida del Giocatore
+14-29,Armatura Completa Nanica,Armatura maggiore inferiore,Armatura,16.500 mo,25 kg,Manuale di Gioco
+-,Usbergo dell'Eroe,Armatura maggiore inferiore,Armatura,16.600 mo,"12,5 kg",Guida alle Classi
+30-45,Corazza di Bande della Fortuna,Armatura maggiore inferiore,Armatura,18.900 mo,"17,5 kg",Manuale di Gioco
+46-58,Cuoio Pelle di Gatto,Armatura maggiore inferiore,Armatura,18.910 mo,10 kg,Guida all'Equipaggiamento
+-,Corazza di Piastre Indomita,Armatura maggiore inferiore,Armatura,22.350 mo,20 kg,Avventure Mitiche
+59-71,Armatura Celestiale,Armatura maggiore inferiore,Armatura,22.400 mo,10 kg,Manuale di Gioco
+72-84,Corazza di Piastre del Bucaniere,Armatura maggiore inferiore,Armatura,23.850 mo,15 kg,Guida del Giocatore
+85-100,Armatura Completa delle ProfonditÃ,Armatura maggiore inferiore,Armatura,24.650 mo,25 kg,Manuale di Gioco
+d%,Armatura Maggiore Superiore,Prezzo,Peso,Fonte,,
+-,Armatura della Camminata Spirituale,Armatura maggiore superiore,Armatura,25.160 mo,"7,5 kg",Avventure Mitiche
+01-10,Corazza di Piastre del Comando,Armatura maggiore superiore,Armatura,25.400 mo,15 kg,Manuale di Gioco
+11-14,Corazza di Bande Derelitta,Armatura maggiore superiore,Armatura,25.400 mo,"17,5 kg",Guida del Giocatore
+15-24,Armatura in Mithral della VelocitÃ,Armatura maggiore superiore,Armatura,26.500 mo,"12,5 kg",Manuale di Gioco
+25-28,Guardiana dei Boschi,Armatura maggiore superiore,Armatura,29.350 mo,"12,5 kg",Guida all'Equipaggiamento
+29-32,Corazza di Piastre di Scarabeo,Armatura maggiore superiore,Armatura,32.350 mo,15 kg,Guida all'Equipaggiamento
+-,Armatura Completa del Cadavere,Armatura maggiore superiore,Armatura,35.650 mo,25 kg,Guida alle Classi
+33-38,Armatura di Pelle di Gigante (Ogre),Armatura maggiore superiore,Armatura,39.165 mo,"12,5 kg",Guida del Giocatore
+39-42,Pelle di Hamatula,Armatura maggiore superiore,Armatura,44.215 mo,6 kg,Guida all'Equipaggiamento
+43-48,Armatura di Pelle di Gigante (Gigante delle Colline),Armatura maggiore superiore,Armatura,46.665 mo,"12,5 kg",Guida del Giocatore
+49-52,Armatura Demoniaca,Armatura maggiore superiore,Armatura,52.260 mo,25 kg,Manuale di Gioco
+53-58,"Armatura di Pelle di Gigante (Gigante del Fuoco, del Gelo o delle Rocce)",Armatura maggiore superiore,Armatura,54.165 mo,"12,5 kg",Guida del Giocatore
+59-64,Armatura di Pelle di Gigante (Troll),Armatura maggiore superiore,Armatura,59.165 mo,"12,5 kg",Guida del Giocatore
+65-70,Cotta della Malevolenza,Armatura maggiore superiore,Armatura,61.300 mo,20 kg,Guida all'Equipaggiamento
+71-76,Armatura di Pelle di Gigante (Gigante delle Nuvole),Armatura maggiore superiore,Armatura,69.165 mo,"12,5 kg",Guida del Giocatore
+77-82,Armatura di Pelle di Gigante (Gigante delle Tempeste),Armatura maggiore superiore,Armatura,76.665 mo,"12,5 kg",Guida del Giocatore
+83-88,Mezza Armatura Stella del Giorno,Armatura maggiore superiore,Armatura,81.250 mo,25 kg,Guida del Giocatore
+89-96,Armatura Invincibile,Armatura maggiore superiore,Armatura,137.650 mo,25 kg,Guida all'Equipaggiamento
+97-100,Armatura Completa Prismatica,Armatura maggiore superiore,Armatura,160.650 mo,25 kg,Guida all'Equipaggiamento

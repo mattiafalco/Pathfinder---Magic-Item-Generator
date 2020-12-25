@@ -1,0 +1,56 @@
+d%,CapacitÃ Speciale delle Armi +1,Modificatore Prezzo Base  1,Fonte
+01,Adattiva  2,+1.000 mo,Guida all'Equipaggiamento
+02,Imperturbabile,+3.000 mo,Guida all'Equipaggiamento
+03,Mascheramento,+4.000 mo,Guida all'Equipaggiamento
+04-06,Alleanza,Bonus +1,Guida del Giocatore
+07-15,Anatema  3,Bonus +1,Manuale di Gioco
+16,Richiamabile,Bonus +1,Guida all'Equipaggiamento
+17-19,Conduttiva,Bonus +1,Guida del Giocatore
+20,Preservante  4,+4.000 mo,Guida all'Equipaggiamento
+21-24,Corrosiva  3,Bonus +1,Guida del Giocatore
+25,Crudele,Bonus +1,Guida alle Razze
+26-28,Astuzia,Bonus +1,Guida del Giocatore
+29-36,Distanza,Bonus +1,Manuale di Gioco
+37-45,Infuocata  3,Bonus +1,Manuale di Gioco
+46-54,Gelida  3,Bonus +1,Manuale di Gioco
+55-58,Cacciatore,Bonus +1,Guida del Giocatore
+59-62,Giurista,Bonus +1,Guida del Giocatore
+63,Delineante,Bonus +1,Guida all'Equipaggiamento
+64,Fortunata  5,Bonus +1,Guida al Combattimento
+65-66,Pietosa  3,Bonus +1,Manuale di Gioco
+67,Planare,Bonus +1,Guida all'Equipaggiamento
+68,Affidabile  5,Bonus +1,Guida al Combattimento
+69-76,Ritornante  6,Bonus +1,Manuale di Gioco
+77-84,Ricercante,Bonus +1,Manuale di Gioco
+85-92,Folgorante  3,Bonus +1,Manuale di Gioco
+93-100,Tonante  3,Bonus +1,Manuale di Gioco
+d%,CapacitÃ Speciale delle Armi +2,Modificatore Prezzo Base  1,Fonte
+01-10,Anarchica  3,Bonus +2,Manuale di Gioco
+11-13,Ancorante  6,Bonus +2,Guida all'Equipaggiamento
+14-23,Assiomatica  3,Bonus +2,Manuale di Gioco
+24-31,Esplosione Corrosiva  3,Bonus +2,Guida del Giocatore
+32-34,Designante Inferiore  3,Bonus +2,Guida all'Equipaggiamento
+35-37,Munizioni Infinite  7,Bonus +2,Guida all'Equipaggiamento
+38-48,Esplosione di Fiamme  3,Bonus +2,Manuale di Gioco
+49-58,Sacra  3,Bonus +2,Manuale di Gioco
+59-69,Esplosione di Ghiaccio  3,Bonus +2,Manuale di Gioco
+70-73,Incendiaria  3,Bonus +2,Guida alle Razze
+74-76,Blocca Fase  3,Bonus +2,Guida all'Equipaggiamento
+77-86,Esplosione Folgorante  3,Bonus +2,Manuale di Gioco
+87-90,Posta,Bonus +2,Guida all'Equipaggiamento
+91-100,Sacrilega  3,Bonus +2,Manuale di Gioco
+d%,CapacitÃ Speciale delle Armi +3 o +4,Modificatore Prezzo Base  1,Fonte
+01-25,Fortunata Superiore  5,Bonus +3,Guida al Combattimento
+26-45,Affidabile Superiore  5,Bonus +3,Guida al Combattimento
+46-85,VelocitÃ,Bonus +3,Manuale di Gioco
+86-94,Energia Luminosa  3,Bonus +4,Manuale di Gioco
+95-96,Designante Superiore,Bonus +4,Guida all'Equipaggiamento
+97-98,Colpo Agile,Bonus +4,Guida all'Equipaggiamento
+99-100,Seconda PossibilitÃ 3,Bonus +4,Guida all'Equipaggiamento
+1  Da aggiungere al  Bonus di Potenziamento  della  Tabella: Armi  per determinare il prezzo di mercato totale.,1  Da aggiungere al  Bonus di Potenziamento  della  Tabella: Armi  per determinare il prezzo di mercato totale.,1  Da aggiungere al  Bonus di Potenziamento  della  Tabella: Armi  per determinare il prezzo di mercato totale.,1  Da aggiungere al  Bonus di Potenziamento  della  Tabella: Armi  per determinare il prezzo di mercato totale.
+2  Solo archi (solo compositi per  Adattiva  ).,2  Solo archi (solo compositi per  Adattiva  ).,2  Solo archi (solo compositi per  Adattiva  ).,2  Solo archi (solo compositi per  Adattiva  ).
+3  Le armi a proiettili costruiti con questa capacitÃ passano il loro potere alle loro munizioni.,3  Le armi a proiettili costruiti con questa capacitÃ passano il loro potere alle loro munizioni.,3  Le armi a proiettili costruiti con questa capacitÃ passano il loro potere alle loro munizioni.,3  Le armi a proiettili costruiti con questa capacitÃ passano il loro potere alle loro munizioni.
+4  Le armi da fuoco non possono avere questa capacitÃ .,4  Le armi da fuoco non possono avere questa capacitÃ .,4  Le armi da fuoco non possono avere questa capacitÃ .,4  Le armi da fuoco non possono avere questa capacitÃ .
+5  Solo le armi da fuoco.,5  Solo le armi da fuoco.,5  Solo le armi da fuoco.,5  Solo le armi da fuoco.
+6  Solo armi da lancio scagliate.,6  Solo armi da lancio scagliate.,6  Solo armi da lancio scagliate.,6  Solo armi da lancio scagliate.
+7  Solo archi e balestre.,7  Solo archi e balestre.,7  Solo archi e balestre.,7  Solo archi e balestre.

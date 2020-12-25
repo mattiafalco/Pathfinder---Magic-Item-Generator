@@ -36,7 +36,7 @@ class Scraper(object):
     def get_table(self, id):
         """ read all table with the provided id
 
-        returns: tables_df, list of lists of pd.DataFrame
+        returns: tables_df, list of pd.DataFrame
         """
         tables = scr.find_all('table', {'id': id})
         tables_df = [pd.read_html(tab.prettify('utf-8'))[0] for tab in tables]
@@ -47,6 +47,10 @@ class Scraper(object):
 
 # Useful functions
 def get_links(scraper):
+    """ get desired links from a page with a table 'prd_capitoli'.
+
+        return: dictionary of links"""
+
     titles = ['Database Oggetti Magici e Meravigliosi', 'Armature Magiche',
                 'Armi Magiche', 'Bacchette', 'Pergamene', 'Pozioni']
 
@@ -72,17 +76,41 @@ def get_links(scraper):
     return links
 
 
+def save_table_csv(df, name):
+    """ save a DataFrame to name.csv"""
+    df.to_csv('data/' + name, sep=',', index=False)
+
 if __name__ == '__main__':
 
-    print('hello')
+    base_url = 'https://golarion.altervista.org'
     id_zebra = 'wiki_table_zebra'
     id_filter = 'wiki_table_filter'
 
-
-    base_url = 'https://golarion.altervista.org'
-    scr = Scraper(base_url + '/wiki/Armi_Magiche')
+    # links
+    scr = Scraper(base_url + '/wiki/Oggetti_Magici')
     scr.parse()
+    links = get_links(scr)
 
-    df_list = scr.get_table(id_zebra)
-    df = df_list[1]
-    print(df)
+    keys = ['Database Oggetti Magici e Meravigliosi', 'Armature Magiche',
+              'Armi Magiche', 'Bacchette', 'Pergamene', 'Pozioni']
+
+    """Database Oggetti Magici:
+        Oggetti Meravigliosi
+        Anelli
+        Bastoni
+        Verghe"""
+
+    scr = Scraper(links[keys[0]])
+    scr.parse()
+    df_list = scr.get_table(id_filter)
+    save_table_csv(df_list[0], 'Database_Oggetti_Magici.csv')
+
+    """Armi Magiche, Armature Magiche, Bacchette, Pergamene, Pozioni"""
+    for i in range(1, len(links)):
+        scr = Scraper(links[keys[i]])
+        scr.parse()
+        df_list = scr.get_table(id_zebra)
+
+        # save all tables
+        for j in range(0, len(df_list)):
+            save_table_csv(df_list[j], keys[i] + '_' + str(j+1) + '.csv')

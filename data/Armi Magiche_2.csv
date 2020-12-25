@@ -1,0 +1,50 @@
+0,1
+d%,Arma minore inferiore
+01-80,arma +1
+81-100,arma specifica minore inferiore
+d%,Arma minore superiore
+01-26,arma +1
+27-53,arma +2
+54-80,arma +1 con una capacitÃ speciale +1
+81-100,arma specifica minore superiore
+d%,Arma media inferiore
+01-10,arma +1
+11-20,arma +2
+21-32,arma +3
+33-44,arma +1 con una capacitÃ speciale +1
+45-56,arma +1 con due capacitÃ speciali +1
+57-68,arma +1 con una capacitÃ speciale +2
+69-80,arma +2 con una capacitÃ speciale +1
+81-100,arma specifica media inferiore
+d%,Arma media superiore
+01-10,arma +2
+11-22,arma +3
+23-32,arma +1 con una capacitÃ speciale +1
+33-44,arma +1 con una capacitÃ speciale +2
+45-56,arma +2 con una capacitÃ speciale +1
+57-68,arma +2 con una capacitÃ speciale +2
+69-80,arma +3 con una capacitÃ speciale +1
+81-100,arma specifica media superiore
+d%,Arma maggiore inferiore
+01-10,arma +3
+11-22,arma +4
+23-32,arma +1 con una capacitÃ speciale +2
+33-44,arma +1 con una capacitÃ speciale +3
+45-56,arma +2 con una capacitÃ speciale +2
+57-68,arma +3 con una capacitÃ speciale +1
+69-80,arma +4 con una capacitÃ speciale +1
+81-100,arma specifica maggiore inferiore
+d%,Arma maggiore superiore
+01-10,arma +4
+11-20,arma +5
+21-30,arma +4 con una capacitÃ speciale +1
+31-38,arma +4 con una capacitÃ speciale +2
+39-46,arma +4 con una capacitÃ speciale +3
+47-51,arma +4 con una capacitÃ speciale +4
+52-59,arma +5 con una capacitÃ speciale +1
+60-67,arma +5 con una capacitÃ speciale +2
+68-71,arma +5 con una capacitÃ speciale +3
+72-74,arma +5 con due capacitÃ speciali +2
+75-77,arma +5 con una capacitÃ speciale +4 ed una +1
+78-80,arma +5 con una capacitÃ speciale +3 ed una +2
+81-100,arma specifica maggiore superiore
