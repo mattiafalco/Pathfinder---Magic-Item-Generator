@@ -1,0 +1,51 @@
+d%,Oggetto Minore Inferiore,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01-13,Guanti Assistenti,Oggetto Minore Inferiore Slot Mani,Mani,180 mo,"0,5 kg",Guida del Giocatore
+14-22,Artigli dell'Orso Polare,Oggetto Minore Inferiore Slot Mani,Mani,1.300 mo,"0,5 kg",Guida all'Equipaggiamento
+23-34,Guanti della Perlustrazione,Oggetto Minore Inferiore Slot Mani,Mani,2.000 mo,-,Guida all'Equipaggiamento
+35-46,Guanto Luminoso,Oggetto Minore Inferiore Slot Mani,Mani,2.000 mo,-,Guida del Giocatore
+47-58,Guanti dell'Imbroglio dell'Apprendista,Oggetto Minore Inferiore Slot Mani,Mani,2.200 mo,-,Guida all'Equipaggiamento
+59-70,Guanti dello Sfidante,Oggetto Minore Inferiore Slot Mani,Mani,2.200 mo,-,Guida all'Equipaggiamento
+71-80,Guanti del Furto,Oggetto Minore Inferiore Slot Mani,Mani,2.500 mo,"0,5 kg",Guida all'Equipaggiamento
+81-90,Guanti del Guaritore,Oggetto Minore Inferiore Slot Mani,Mani,2.500 mo,-,Guida all'Equipaggiamento
+-,Guanti delle Dita Leste,Oggetto Minore Inferiore Slot Mani,Mani,2.500 mo,-,Guida alle Razze
+91-100,Guanti da Lavoro dell'Ingegnere,Oggetto Minore Inferiore Slot Mani,Mani,3.000 mo,-,Guida all'Equipaggiamento
+d%,Oggetto Minore Superiore,Prezzo,Peso,Fonte,,
+01-12,Guanti della Manovra Esperta,Oggetto Minore Superiore Slot Mani,Mani,4.000 mo,"0,5 kg",Guida all'Equipaggiamento
+13-21,Guanti della Visione Spettrale,Oggetto Minore Superiore Slot Mani,Mani,4.000 mo,-,Guida all'Equipaggiamento
+22-33,Guanti Catturafrecce,Oggetto Minore Superiore Slot Mani,Mani,4.000 mo,-,Manuale di Gioco
+34-43,Guanti dell'Attivatrappole,Oggetto Minore Superiore Slot Mani,Mani,4.000 mo,"0,5 kg",Guida all'Equipaggiamento
+44-55,Guanti del Colpo Arcano,Oggetto Minore Superiore Slot Mani,Mani,5.000 mo,"0,5 kg",Guida all'Equipaggiamento
+56-65,Guanti dell'Avvelenatore,Oggetto Minore Superiore Slot Mani,Mani,5.000 mo,-,Guida all'Equipaggiamento
+66-75,Guanti del Magnetista,Oggetto Minore Superiore Slot Mani,Mani,6.000 mo,-,Guida all'Equipaggiamento
+76-100,Guanti del Nuotare e Scalare,Oggetto Minore Superiore Slot Mani,Mani,6.250 mo,-,Manuale di Gioco
+-,Guanti della Marchiatura,Oggetto Minore Superiore Slot Mani,Mani,7.200 mo,"0,5 kg",Guida alle Classi
+-,Guanti Elfici,Oggetto Minore Superiore Slot Mani,Mani,7.500 mo,-,Guida alle Razze
+d%,Oggetto Medio Inferiore,Prezzo,Peso,Fonte,,
+01-02,Guanti Deliquescenti,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"0,5 kg",Guida all'Equipaggiamento
+03-05,Guanti Fissa Forma,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"0,25 kg",Guida all'Equipaggiamento
+06-08,Guanto del Cobra di Ferro,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"0,5 kg",Guida all'Equipaggiamento
+09-16,Guanto del Falconiere d'Ombra,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"0,5 kg",Guida all'Equipaggiamento
+17-20,Guanti del Colpo Incantato,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,-,Guida all'Equipaggiamento
+-,Guanti dei Detriti,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"0,5 kg",Guida alle Razze
+-,Guanti Insanguinati,Oggetto Medio Inferiore Slot Mani,Mani,8.000 mo,"2,5 kg",Guida alle Classi
+21-28,Guanti Anatema dei Glifi,Oggetto Medio Inferiore Slot Mani,Mani,9.000 mo,-,Guida all'Equipaggiamento
+-,Guanti Catturaincantesimi,Oggetto Medio Inferiore Slot Mani,Mani,9.000 mo,-,Avventure Mitiche
+-,Guanti Inesorabili,Oggetto Medio Inferiore Slot Mani,Mani,9.000 mo,"0,5 kg",Avventure Mitiche
+29-40,Guanto della Conservazione,Oggetto Medio Inferiore Slot Mani,Mani,10.000 mo,-,Manuale di Gioco
+41-46,Guanti del Modellamento,Oggetto Medio Inferiore Slot Mani,Mani,10.000 mo,-,Guida all'Equipaggiamento
+47-54,Guanti Elastici,Oggetto Medio Inferiore Slot Mani,Mani,10.000 mo,-,Guida all'Equipaggiamento
+-,Guanti del Pugno di Pietra,Oggetto Medio Inferiore Slot Mani,Mani,10.000 mo,"1,5 kg",Avventure Mitiche
+55-76,Guanto Corrosivo,Oggetto Medio Inferiore Slot Mani,Mani,11.500 mo,1 kg,Manuale di Gioco
+77-100,Guanti del Duello,Oggetto Medio Inferiore Slot Mani,Mani,15.000 mo,-,Guida del Giocatore
+-,Guanti Spaccacrani,Oggetto Medio Inferiore Slot Mani,Mani,15.302 mo,3 kg,Guida alle Classi
+d%,Oggetto Medio Superiore,Prezzo,Peso,Fonte,,
+01-30,Guanti del Vampiro,Oggetto Medio Superiore Slot Mani,Mani,18.000 mo,-,Guida all'Equipaggiamento
+31-65,Guanti Pugno del Gigante,Oggetto Medio Superiore Slot Mani,Mani,20.000 mo,"2,5 kg",Guida all'Equipaggiamento
+-,Guanti dell'Azione a Distanza,Oggetto Medio Superiore Slot Mani,Mani,20.000 mo,-,Avventure Mitiche
+66-100,Guanto della Scorciatoia,Oggetto Medio Superiore Slot Mani,Mani,27.000 mo,-,Guida all'Equipaggiamento
+d%,Oggetto Maggiore Inferiore,Prezzo,Peso,Fonte,,
+01-30,Guanti dell'Evocatore Autorevole,Oggetto Maggiore Inferiore Slot Mani,Mani,30.000 mo,-,Guida all'Equipaggiamento
+76-100,Guanto Corrosivo Superiore,Oggetto Maggiore Inferiore Slot Mani,Mani,34.500 mo,1 kg,Guida all'Equipaggiamento
+d%,Oggetto Maggiore Superiore,Prezzo,Peso,Fonte,,
+01-60,Artigli di Leng,Oggetto Maggiore Superiore Slot Mani,Mani,67.000 mo,"0,5 kg",Guida all'Equipaggiamento
+61-100,Guanti del Maestro d'Armi,Oggetto Maggiore Superiore Slot Mani,Mani,110.000 mo,"2,5 kg",Guida all'Equipaggiamento

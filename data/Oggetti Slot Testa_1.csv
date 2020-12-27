@@ -1,0 +1,63 @@
+d%,Oggetto Minore Inferiore Slot Testa,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01-25,Berretto delle Sembianze Umane,Oggetto Minore Inferiore Slot Testa,Testa,800 mo,-,Guida alle Razze
+26-37,Berretto della Luce,Oggetto Minore Inferiore Slot Testa,Testa,900 mo,-,Guida all'Equipaggiamento
+-,Piuma dell'Eleganza,Oggetto Minore Inferiore Slot Testa,Testa,1.000 mo,-,Guida alle Classi
+-,Faccia Falsa,Oggetto Minore Inferiore Slot Testa,Testa,1.600 mo,"0,25 kg",Guida alle Classi
+38-51,Cappello del Camuffamento,Oggetto Minore Inferiore Slot Testa,Testa,1.800 mo,-,Manuale di Gioco
+52-71,Berretto Ammortizzatore,Oggetto Minore Inferiore Slot Testa,Testa,2.000 mo,-,Guida all'Equipaggiamento
+72-86,Maschera dell'Avaro,Oggetto Minore Inferiore Slot Testa,Testa,3.000 mo,"0,5 kg",Guida all'Equipaggiamento
+87-100,Maschera del Persecutore,Oggetto Minore Inferiore Slot Testa,Testa,3.500 mo,"0,5 kg",Guida all'Equipaggiamento
+d%,Oggetto Minore Superiore Slot Testa,Prezzo,Peso,Fonte,,
+01-12,Diadema della Persuasione,Oggetto Minore Superiore Slot Testa,Testa,4.500 mo,-,Manuale di Gioco
+13-21,Maschera del Lottatore,Oggetto Minore Superiore Slot Testa,Testa,5.000 mo,1 kg,Guida del Giocatore
+22-31,Elmo dall'Aspetto Terrificante,Oggetto Minore Superiore Slot Testa,Testa,5.000 mo,2 kg,Guida del Giocatore
+32-40,Jingasa del Soldato Fortunato,Oggetto Minore Superiore Slot Testa,Testa,5.000 mo,"1,5 kg",Guida all'Equipaggiamento
+41-54,Elmo della Conoscenza,Oggetto Minore Superiore Slot Testa,Testa,5.200 mo,"1,5 kg",Manuale di Gioco
+55-66,Corona delle Spade,Oggetto Minore Superiore Slot Testa,Testa,6.000 mo,"1,5 kg",Guida alle Razze
+67-84,Diadema Incandescente Minore,Oggetto Minore Superiore Slot Testa,Testa,6.480 mo,"0,5 kg",Manuale di Gioco
+-,Maschera dell'Aspetto,Oggetto Minore Superiore Slot Testa,Testa,6.500 mo,1 kg,Guida alle Classi
+85-95,Maschera del Krenshar,Oggetto Minore Superiore Slot Testa,Testa,7.200 mo,"0,5 kg",Guida all'Equipaggiamento
+96-100,Maschera della Pestilenza,Oggetto Minore Superiore Slot Testa,Testa,7.500 mo,1 kg,Guida all'Equipaggiamento
+d%,Oggetto Medio Inferiore Slot Testa,Prezzo,Peso,Fonte,,
+01-12,Maschera del Rigido Contegno,Oggetto Medio Inferiore Slot Testa,Testa,8.000 mo,2 kg,Guida alle Razze
+13-26,Elmo del Signore dei Mammut,Oggetto Medio Inferiore Slot Testa,Testa,8.500 mo,"1,5 kg",Guida all'Equipaggiamento
+27-42,Velo degli Sguardi Sfuggenti,Oggetto Medio Inferiore Slot Testa,Testa,9.000 mo,-,Guida all'Equipaggiamento
+43-59,Maschera dei Mille Tomi,Oggetto Medio Inferiore Slot Testa,Testa,10.000 mo,"0,5 kg",Guida all'Equipaggiamento
+60-76,Maschera della Medusa,Oggetto Medio Inferiore Slot Testa,Testa,10.000 mo,"0,5 kg",Guida all'Equipaggiamento
+76-87,Berretto del Libero Pensatore,Oggetto Medio Inferiore Slot Testa,Testa,12.000 mo,-,Guida all'Equipaggiamento
+-,Berretto di Latta,Oggetto Medio Inferiore Slot Testa,Testa,15.000 mo,1 kg,Avventure Occulte
+88-100,Aureola della Calma Interiore,Oggetto Medio Inferiore Slot Testa,Testa,16.000 mo,"0,5 kg",Guida alle Razze
+-,Elmo delle Valchirie,Oggetto Medio Inferiore Slot Testa,Testa,16.000 mo,"1,5 kg",Guida alle Classi
+d%,Oggetto Medio Superiore Slot Testa,Prezzo,Peso,Fonte,,
+01-06,Corona dell'Occhio Felino,Oggetto Medio Superiore Slot Testa,Testa,18.000 mo,"0,5 kg",Guida alle Razze
+07-12,Fauci del Dragone,Oggetto Medio Superiore Slot Testa,Testa,18.000 mo,"1,5 kg",Guida all'Equipaggiamento
+13-20,Mitra del Gerofante,Oggetto Medio Superiore Slot Testa,Testa,18.000 mo,1 kg,Guida all'Equipaggiamento
+-,Corona di Alloro,Oggetto Medio Superiore Slot Testa,Testa,19.000 mo,"0,5 kg",Avventure Mitiche
+21-29,Cappello del Mago,Oggetto Medio Superiore Slot Testa,Testa,20.000 mo,-,Guida all'Equipaggiamento
+30-36,Diadema della Vista Mentale,Oggetto Medio Superiore Slot Testa,Testa,22.000 mo,-,Guida all'Equipaggiamento
+37-45,Maschera del Teschio,Oggetto Medio Superiore Slot Testa,Testa,22.000 mo,"1,5 kg",Manuale di Gioco
+46-53,Elmo Ululante,Oggetto Medio Superiore Slot Testa,Testa,22.600 mo,1 kg,Guida all'Equipaggiamento
+54-66,Diadema Incandescente Maggiore,Oggetto Medio Superiore Slot Testa,Testa,23.760 mo,"0,5 kg",Manuale di Gioco
+67-76,Elmo del Movimento Subacqueo,Oggetto Medio Superiore Slot Testa,Testa,24.000 mo,"1,5 kg",Manuale di Gioco
+77-83,Corona della Conquista,Oggetto Medio Superiore Slot Testa,Testa,24.600 mo,"1,5 kg",Guida alle Razze
+-,Maschera del Mesmerista,Oggetto Medio Superiore Slot Testa,Testa,25.000 mo,2 kg,Avventure Occulte
+84-89,Elmo Batraciano,Oggetto Medio Superiore Slot Testa,Testa,26.000 mo,"1,5 kg",Guida all'Equipaggiamento
+90-100,Elmo della Telepatia,Oggetto Medio Superiore Slot Testa,Testa,27.000 mo,"1,5 kg",Manuale di Gioco
+-,Cappuccio di Privazione Sensoriale,Oggetto Medio Superiore Slot Testa,Testa,27.500 mo,"2,5 kg",Avventure Occulte
+d%,Oggetto Maggiore Inferiore Slot Testa,Prezzo,Peso,Fonte,,
+01-14,Diadema di Ferro delle Anime Protette,Oggetto Maggiore Inferiore Slot Testa,Testa,30.000 mo,"0,5 kg",Guida all'Equipaggiamento
+15-29,Lauro del Comando,Oggetto Maggiore Inferiore Slot Testa,Testa,30.000 mo,-,Guida all'Equipaggiamento
+30-45,Maschera dei Giganti Inferiore,Oggetto Maggiore Inferiore Slot Testa,Testa,30.000 mo,"0,5 kg",Guida del Giocatore
+46-61,Berretto della Mente d'Acciaio,Oggetto Maggiore Inferiore Slot Testa,Testa,33.600 mo,"1,5 kg",Guida all'Equipaggiamento
+62-78,Elmo del Signore delle Tempeste,Oggetto Maggiore Inferiore Slot Testa,Testa,35.000 mo,"1,5 kg",Guida all'Equipaggiamento
+79-100,Elmo della LuminositÃ Minore,Oggetto Maggiore Inferiore Slot Testa,Testa,36.000 mo,"1,5 kg",Guida all'Equipaggiamento
+d%,Oggetto Maggiore Superiore Slot Testa,Prezzo,Peso,Fonte,,
+01-14,Parrucca del Giudice,Oggetto Maggiore Superiore Slot Testa,Testa,59.200 mo,-,Guida all'Equipaggiamento
+15-39,Elmo del Teletrasporto,Oggetto Maggiore Superiore Slot Testa,Testa,73.500 mo,"1,5 kg",Manuale di Gioco
+40-55,Aureola della Minaccia,Oggetto Maggiore Superiore Slot Testa,Testa,84.000 mo,"0,5 kg",Guida alle Razze
+-,Elmo Cieco,Oggetto Maggiore Superiore Slot Testa,Testa,85.000 mo,"1,5 kg",Avventure Mitiche
+56-68,Maschera dei Giganti Superiore,Oggetto Maggiore Superiore Slot Testa,Testa,90.000 mo,"0,5 kg",Guida del Giocatore
+-,Elmo del Re Serpente,Oggetto Maggiore Superiore Slot Testa,Testa,96.000 mo,"1,5 kg",Avventure Mitiche
+69-83,Elmo della LuminositÃ,Oggetto Maggiore Superiore Slot Testa,Testa,125.000 mo,"1,5 kg",Manuale di Gioco
+84-92,Elmo della RadiositÃ Elettrica,Oggetto Maggiore Superiore Slot Testa,Testa,125.000 mo,"1,5 kg",Guida all'Equipaggiamento
+93-100,Corona del Paradiso,Oggetto Maggiore Superiore Slot Testa,Testa,150.000 mo,"2,5 kg",Guida all'Equipaggiamento

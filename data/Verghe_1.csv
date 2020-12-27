@@ -1,0 +1,70 @@
+d%,Verga media inferiore,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01,Verga Metamagica Pietosa Minore,Verga media inferiore,Nessuno,1.500 mo,5 kg,Guida del Giocatore
+02-34,Metamagica (liv. incantesimo +1) Minore,Verga media inferiore,Nessuno,3.000 mo,"2,5 kg",-
+-,Verga della Rifocalizzazione,Verga media inferiore,Nessuno,5.000 mo,"0,5 kg",Avventure Occulte
+35-49,Verga Inamovibile,Verga media inferiore,Nessuno,5.000 mo,"2,5 kg",Manuale di Gioco
+50-59,Verga della Forza Tonante,Verga media inferiore,Nessuno,5.400 mo,"2,5 kg",Guida all'Equipaggiamento
+60,Verga Metamagica Pietosa Normale,Verga media inferiore,Nessuno,5.500 mo,5 kg,Guida del Giocatore
+61,Verga del Ghiaccio,Verga media inferiore,Nessuno,8.500 mo,"1,5 kg",Guida all'Equipaggiamento
+62-71,Metamagica (liv. incantesimo +2) Minore,Verga media inferiore,Nessuno,9.000 mo,"2,5 kg",-
+72-81,Verga dell'Individuazione dei Metalli e dei Minerali,Verga media inferiore,Nessuno,10.500 mo,"2,5 kg",Manuale di Gioco
+82-86,Metamagica (liv. incantesimo +1) Normale,Verga media inferiore,Nessuno,11.000 mo,"2,5 kg",-
+87-100,Verga della Cancellazione,Verga media inferiore,Nessuno,11.000 mo,"2,5 kg",Manuale di Gioco
+-,Verga delle Fatture Afferranti,Verga media inferiore,Nessuno,11.000 mo,"2,5 kg",Guida alle Classi
+-,Verga delle Fatture Interminabili,Verga media inferiore,Nessuno,11.000 mo,"2,5 kg",Guida alle Classi
+d%,Verga media superiore,Prezzo,Peso,Fonte,,
+01-03,Verga Conduttiva,Verga media superiore,Nessuno,12.000 mo,"2,5 kg",Guida all'Equipaggiamento
+04-06,Verga Isolante,Verga media superiore,Nessuno,12.000 mo,5 kg,Guida all'Equipaggiamento
+07-10,Verga del Wayang,Verga media superiore,Nessuno,12.000 mo,"2,5 kg",Guida all'Equipaggiamento
+11-18,Verga delle Meraviglie,Verga media superiore,Nessuno,12.000 mo,"2,5 kg",Manuale di Gioco
+19,Verga Metamagica Pietosa Superiore,Verga media superiore,Nessuno,12.250 mo,5 kg,Guida del Giocatore
+20-29,Verga del Pitone,Verga media superiore,Nessuno,13.000 mo,5 kg,Manuale di Gioco
+30-33,Verga del Ruba Trappole,Verga media superiore,Nessuno,13.500 mo,"2,5 kg",Guida all'Equipaggiamento
+34-55,Metamagica (liv. incantesimo +3) Minore,Verga media superiore,Nessuno,14.000 mo,"2,5 kg",-
+56-59,Verga dell'Equilibrio,Verga media superiore,Nessuno,15.000 mo,"2,5 kg",Guida all'Equipaggiamento
+60-63,Verga della Fuga,Verga media superiore,Nessuno,15.000 mo,"2,5 kg",Guida all'Equipaggiamento
+64-72,Verga dell'Estinzione delle Fiamme,Verga media superiore,Nessuno,15.000 mo,"2,5 kg",Manuale di Gioco
+73-76,Verga della Rovina,Verga media superiore,Nessuno,16.000 mo,"2,5 kg",Guida all'Equipaggiamento
+77-80,Verga Arborea,Verga media superiore,Nessuno,16.650 mo,"2,5 kg",Guida all'Equipaggiamento
+81-86,Verga della Seduzione,Verga media superiore,Nessuno,18.000 mo,"2,5 kg",Guida all'Equipaggiamento
+87-90,Verga delle Ortiche,Verga media superiore,Nessuno,18.000 mo,"2,5 kg",Guida all'Equipaggiamento
+91-100,Verga della Vipera,Verga media superiore,Nessuno,19.000 mo,"2,5 kg",Manuale di Gioco
+d%,Verga maggiore inferiore,Prezzo,Peso,Fonte,,
+01-04,Scettro del Sovrano,Verga maggiore inferiore,Nessuno,20.000 mo,"2,5 kg",Guida all'Equipaggiamento
+05-06,Verga del Nimbo Ardente,Verga maggiore inferiore,Nessuno,22.305 mo,"1,5 kg",Guida all'Equipaggiamento
+07-13,Verga dell'Individuazione dei Nemici,Verga maggiore inferiore,Nessuno,23.500 mo,"2,5 kg",Manuale di Gioco
+14-27,Metamagica (liv. incantesimo +1) Superiore,Verga maggiore inferiore,Nessuno,24.500 mo,"2,5 kg",-
+28-36,Verga dello Splendore,Verga maggiore inferiore,Nessuno,25.000 mo,"2,5 kg",Manuale di Gioco
+37-44,Verga del Deperimento,Verga maggiore inferiore,Nessuno,25.000 mo,"2,5 kg",Manuale di Gioco
+-,Verga del Sovraflusso,Verga maggiore inferiore,Nessuno,25.000 mo,"0,5 kg",Avventure Occulte
+45-50,Verga del Legame con la Terra,Verga maggiore inferiore,Nessuno,26.500 mo,"2,5 kg",Guida alle Razze
+51-56,Verga dell'Aboleth,Verga maggiore inferiore,Nessuno,29.000 mo,"2,5 kg",Guida all'Equipaggiamento
+57-63,Verga del Liberatore,Verga maggiore inferiore,Nessuno,30.000 mo,"2,5 kg",Guida all'Equipaggiamento
+-,Verga della Rabdomanzia,Verga maggiore inferiore,Nessuno,31.000 mo,"0,5 kg",Avventure Occulte
+64-70,Metamagica (liv. incantesimo +2) Normale,Verga maggiore inferiore,Nessuno,32.500 mo,"2,5 kg",-
+-,Verga delle Fatture Voraci,Verga maggiore inferiore,Nessuno,32.500 mo,"2,5 kg",Guida alle Classi
+71-79,Verga dei Tuoni e Fulmini,Verga maggiore inferiore,Nessuno,33.000 mo,"2,5 kg",Manuale di Gioco
+80-83,Metamagica di RapiditÃ Minore,Verga maggiore inferiore,Nessuno,35.000 mo,"2,5 kg",Manuale di Gioco
+84-94,Verga della Negazione,Verga maggiore inferiore,Nessuno,37.000 mo,"2,5 kg",Manuale di Gioco
+95-100,Verga della Salda Risolutezza,Verga maggiore inferiore,Nessuno,38.305 mo,"2,5 kg",Guida alle Razze
+d%,Verga maggiore superiore,Prezzo,Peso,Fonte,,
+01-08,Verga dell'Assorbimento,Verga maggiore superiore,Nessuno,50.000 mo,"2,5 kg",Manuale di Gioco
+09-11,Verga Mazzafrusto,Verga maggiore superiore,Nessuno,50.000 mo,"2,5 kg",Manuale di Gioco
+12-26,Metamagica (liv. incantesimo +3) Normale,Verga maggiore superiore,Nessuno,54.000 mo,"2,5 kg",-
+-,Verga delle Fatture Potenti,Verga maggiore superiore,Nessuno,54.000 mo,"2,5 kg",Guida alle Classi
+27-28,Verga della SovranitÃ,Verga maggiore superiore,Nessuno,60.000 mo,4 kg,Manuale di Gioco
+29-30,Verga della Sicurezza,Verga maggiore superiore,Nessuno,61.000 mo,"2,5 kg",Manuale di Gioco
+31-32,Verga delle Ombre,Verga maggiore superiore,Nessuno,64.305 mo,"2,5 kg",Guida alle Razze
+33-34,Verga della Padronanza Mentale,Verga maggiore superiore,Nessuno,67.000 mo,"2,5 kg",Guida all'Equipaggiamento
+35-37,Verga della Potenza,Verga maggiore superiore,Nessuno,70.000 mo,5 kg,Manuale di Gioco
+38-57,Metamagica (liv. incantesimo +2) Superiore,Verga maggiore superiore,Nessuno,73.000 mo,"2,5 kg",-
+58,Scettro del Paradiso,Verga maggiore superiore,Nessuno,74.000 mo,"1,5 kg",Guida all'Equipaggiamento
+59-68,Metamagica di RapiditÃ Normale,Verga maggiore superiore,Nessuno,75.500 mo,"2,5 kg",Manuale di Gioco
+-,Verga delle Fatture Improvvise,Verga maggiore superiore,Nessuno,75.500 mo,"2,5 kg",Guida alle Classi
+69-70,Verga della Potenza Nanica,Verga maggiore superiore,Nessuno,80.000 mo,5 kg,Guida alle Razze
+71-75,Verga dell'Allerta,Verga maggiore superiore,Nessuno,85.000 mo,2 kg,Manuale di Gioco
+-,Verga Dolorosa,Verga maggiore superiore,Nessuno,120.000 mo,"2,5 kg",Avventure Mitiche
+-,Verga Cava,Verga maggiore superiore,Nessuno,121.500 mo,"2,5 kg",Avventure Occulte
+76-95,Metamagica (liv. incantesimo +3) Superiore,Verga maggiore superiore,Nessuno,121.500 mo,"2,5 kg",-
+-,Verga Caducea,Verga maggiore superiore,Nessuno,142.000 mo,"1,5 kg",Avventure Occulte
+96-100,Metamagica di RapiditÃ Superiore,Verga maggiore superiore,Nessuno,170.000 mo,"2,5 kg",Manuale di Gioco

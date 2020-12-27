@@ -46,13 +46,10 @@ class Scraper(object):
 
 
 # Useful functions
-def get_links(scraper):
+def get_links(scraper, titles):
     """ get desired links from a page with a table 'prd_capitoli'.
 
         return: dictionary of links"""
-
-    titles = ['Database Oggetti Magici e Meravigliosi', 'Armature Magiche',
-                'Armi Magiche', 'Bacchette', 'Pergamene', 'Pozioni']
 
     # find table with links
     table = scraper.find('table', {'class': 'prd_capitoli'})
@@ -68,9 +65,9 @@ def get_links(scraper):
     # modified links
     mod = ['Bacchette', 'Pergamene', 'Pozioni']
     for key in mod:
-        if key == 'Pergamene':
+        if key == 'Pergamene' and key in links.keys():
             links[key] = links[key] + '_Arcane'
-        else:
+        elif key in links.keys():
             links[key] = links[key] + '_Casuali'
 
     return links
@@ -85,32 +82,47 @@ if __name__ == '__main__':
     base_url = 'https://golarion.altervista.org'
     id_zebra = 'wiki_table_zebra'
     id_filter = 'wiki_table_filter'
+    database = 'Database_Oggetti_Magici_e_Meravigliosi'
+    # Oggetti magici
+    keys1 = ['Armature Magiche', 'Armi Magiche', 'Bacchette',
+            'Pergamene', 'Pozioni', 'Anelli', 'Bastoni', 'Verghe']
+    # Oggetti meravigliosi
+    keys2 = ['Oggetti Slot Cintura', 'Oggetti Slot Collo', 'Oggetti Slot Corpo', 'Oggetti Slot Fronte',
+             'Oggetti Slot Mani', 'Oggetti Slot Occhi', 'Oggetti Slot Piedi', 'Oggetti Slot Polsi',
+             'Oggetti Slot Spalle', 'Oggetti Slot Testa', 'Oggetti Slot Torace', 'Oggetti Senza Slot', ]
 
-    # links
+    # links1
     scr = Scraper(base_url + '/wiki/Oggetti_Magici')
     scr.parse()
-    links = get_links(scr)
+    links1 = get_links(scr, keys1)
 
-    keys = ['Database Oggetti Magici e Meravigliosi', 'Armature Magiche',
-              'Armi Magiche', 'Bacchette', 'Pergamene', 'Pozioni']
+    # links2
+    scr = Scraper(base_url + '/wiki/Oggetti_Meravigliosi')
+    scr.parse()
+    links2 = get_links(scr, keys2)
 
-    """Database Oggetti Magici:
-        Oggetti Meravigliosi
-        Anelli
-        Bastoni
-        Verghe"""
-
-    scr = Scraper(links[keys[0]])
+    # Database Oggetti Magici
+    scr = Scraper(base_url + '/wiki/' + database)
     scr.parse()
     df_list = scr.get_table(id_filter)
     save_table_csv(df_list[0], 'Database_Oggetti_Magici.csv')
 
     """Armi Magiche, Armature Magiche, Bacchette, Pergamene, Pozioni"""
-    for i in range(1, len(links)):
-        scr = Scraper(links[keys[i]])
+    for i in range(0, len(links1)):
+        scr = Scraper(links1[keys1[i]])
         scr.parse()
         df_list = scr.get_table(id_zebra)
 
         # save all tables
         for j in range(0, len(df_list)):
-            save_table_csv(df_list[j], keys[i] + '_' + str(j+1) + '.csv')
+            save_table_csv(df_list[j], keys1[i] + '_' + str(j+1) + '.csv')
+
+    """ Oggetti Meravigliosi"""
+    for i in range(0, len(links2)):
+        scr = Scraper(links2[keys2[i]])
+        scr.parse()
+        df_list = scr.get_table(id_zebra)
+
+        # save all tables
+        for j in range(0, len(df_list)):
+            save_table_csv(df_list[j], keys2[i] + '_' + str(j + 1) + '.csv')

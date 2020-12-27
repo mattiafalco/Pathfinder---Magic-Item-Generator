@@ -1,0 +1,56 @@
+d%,Oggetto Minore Inferiore,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01-11,Stivali del Gatto,Oggetto Minore Inferiore Slot Piedi,Piedi,1.000 mo,"0,5 kg",Guida all'Equipaggiamento
+12-22,Stivali Impavidi,Oggetto Minore Inferiore Slot Piedi,Piedi,1.400 mo,"0,5 kg",Guida all'Equipaggiamento
+23-31,Stivali della Marcia Duratura,Oggetto Minore Inferiore Slot Piedi,Piedi,1.500 mo,1 kg,Guida all'Equipaggiamento
+32-41,Pantofole del Passo Morbido,Oggetto Minore Inferiore Slot Piedi,Piedi,2.000 mo,"0,5 kg",Guida all'Equipaggiamento
+-,Stivali del Buon Gusto,Oggetto Minore Inferiore Slot Piedi,Piedi,2.000 mo,"0,5 kg",Guida alle Classi
+42-50,Stivali del Terreno Amico,Oggetto Minore Inferiore Slot Piedi,Piedi,2.400 mo,"0,5 kg",Guida del Giocatore
+51-60,Stivali dell'Inverno,Oggetto Minore Inferiore Slot Piedi,Piedi,2.500 mo,"0,5 kg",Manuale di Gioco
+61-76,Stivali Elfici,Oggetto Minore Inferiore Slot Piedi,Piedi,2.500 mo,"0,5 kg",Manuale di Gioco
+77-85,Pantofole dell'Acrobata,Oggetto Minore Inferiore Slot Piedi,Piedi,3.000 mo,"0,5 kg",Guida all'Equipaggiamento
+86-92,Ferri della VelocitÃ,Oggetto Minore Inferiore Slot Piedi,Piedi,3.000 mo,6 kg,Manuale di Gioco
+93-100,Stivali del Pantano,Oggetto Minore Inferiore Slot Piedi,Piedi,3.500 mo,"0,5 kg",Guida all'Equipaggiamento
+-,Stivali del Salto,Oggetto Minore Inferiore Slot Piedi,Piedi,3.500 mo,"0,5 kg",Guida alle Classi
+d%,Oggetto Minore Superiore,Prezzo,Peso,Fonte,,
+01-07,Stivali dello Scassinatore Minori,Oggetto Minore Superiore Slot Piedi,Piedi,4.000 mo,"0,25 kg",Guida all'Equipaggiamento
+08-13,Ferri dei Colpi Schiaccianti +1,Oggetto Minore Superiore Slot Piedi,Piedi,4.000 mo,2 kg,Guida alle Razze
+14-19,Sandali della Reazione Rapida,Oggetto Minore Superiore Slot Piedi,Piedi,4.000 mo,"0,5 kg",Guida all'Equipaggiamento
+20-26,Pantofole della Camminata sulle Nubi,Oggetto Minore Superiore Slot Piedi,Piedi,4.400 mo,"0,5 kg",Guida all'Equipaggiamento
+27-40,Pantofole del Ragno,Oggetto Minore Superiore Slot Piedi,Piedi,4.800 mo,"0,25 kg",Manuale di Gioco
+41-46,Sandali del Passo Leggero,Oggetto Minore Superiore Slot Piedi,Piedi,5.000 mo,"0,25 kg",Guida all'Equipaggiamento
+47-60,Stivali Molleggiati,Oggetto Minore Superiore Slot Piedi,Piedi,5.500 mo,"0,5 kg",Manuale di Gioco
+61-68,Ferri dello Zefiro,Oggetto Minore Superiore Slot Piedi,Piedi,6.000 mo,2 kg,Manuale di Gioco
+69-75,Scarpe Infestate,Oggetto Minore Superiore Slot Piedi,Piedi,6.480 mo,"0,5 kg",Guida all'Equipaggiamento
+76-82,Stivali dell'Escursione,Oggetto Minore Superiore Slot Piedi,Piedi,7.200 mo,1 kg,Guida all'Equipaggiamento
+83-100,Stivali della Levitazione,Oggetto Minore Superiore Slot Piedi,Piedi,7.500 mo,"0,5 kg",Manuale di Gioco
+-,Stivali della Furia Rapida,Oggetto Minore Superiore Slot Piedi,Piedi,7.500 mo,1 kg,Guida alle Classi
+d%,Oggetto Medio Inferiore,Prezzo,Peso,Fonte,,
+01-08,Stivali della Fuga,Oggetto Medio Inferiore Slot Piedi,Piedi,8.000 mo,"0,5 kg",Guida alle Razze
+09-14,Stivali delle Radici della Terra,Oggetto Medio Inferiore Slot Piedi,Piedi,8.000 mo,1 kg,Guida all'Equipaggiamento
+15-21,Stivali dell'Incubo,Oggetto Medio Inferiore Slot Piedi,Piedi,8.500 mo,"1,5 kg",Guida all'Equipaggiamento
+22-26,Ferri dell'Incubo,Oggetto Medio Inferiore Slot Piedi,Piedi,9.000 mo,6 kg,Guida all'Equipaggiamento
+27-32,Stivali dei Triboli,Oggetto Medio Inferiore Slot Piedi,Piedi,10.000 mo,1 kg,Guida all'Equipaggiamento
+33-39,Stivali Tellurici,Oggetto Medio Inferiore Slot Piedi,Piedi,10.000 mo,"0,5 kg",Guida all'Equipaggiamento
+40-47,Stivali del Mastodonte,Oggetto Medio Inferiore Slot Piedi,Piedi,10.500 mo,1 kg,Guida all'Equipaggiamento
+48-54,Scarpe del Balzo Fulmineo,Oggetto Medio Inferiore Slot Piedi,Piedi,10.500 mo,"0,5 kg",Guida all'Equipaggiamento
+55-70,Stivali della VelocitÃ,Oggetto Medio Inferiore Slot Piedi,Piedi,12.000 mo,"0,5 kg",Manuale di Gioco
+71-77,Stivali Verdeggianti,Oggetto Medio Inferiore Slot Piedi,Piedi,12.000 mo,"0,5 kg",Guida all'Equipaggiamento
+78-84,Ferri dei Colpi Schiaccianti +2,Oggetto Medio Inferiore Slot Piedi,Piedi,16.000 mo,2 kg,Guida alle Razze
+85-100,Stivali Alati,Oggetto Medio Inferiore Slot Piedi,Piedi,16.000 mo,"0,5 kg",Manuale di Gioco
+d%,Oggetto Medio Superiore,Prezzo,Peso,Fonte,,
+-,Stivali della Terra e del Vento,Oggetto Medio Superiore Slot Piedi,Piedi,20.000 mo,"1,5 kg",Avventure Mitiche
+01-38,Scarpe da Carboni Ardenti,Oggetto Medio Superiore Slot Piedi,Piedi,21.000 mo,"0,5 kg",Guida all'Equipaggiamento
+39-72,Sandali della Driade,Oggetto Medio Superiore Slot Piedi,Piedi,24.000 mo,"0,5 kg",Guida all'Equipaggiamento
+73-100,Ferri della Foschia,Oggetto Medio Superiore Slot Piedi,Piedi,27.000 mo,6 kg,Guida all'Equipaggiamento
+d%,Oggetto Maggiore Inferiore,Prezzo,Peso,Fonte,,
+01-20,Stivali Sfuggenti,Oggetto Maggiore Inferiore Slot Piedi,Piedi,30.000 mo,"0,5 kg",Guida all'Equipaggiamento
+-,Stivali dell'Araldo della Battaglia,Oggetto Maggiore Inferiore Slot Piedi,Piedi,30.000 mo,1 kg,Guida alle Classi
+21-35,Ferri dei Colpi Schiaccianti +3,Oggetto Maggiore Inferiore Slot Piedi,Piedi,36.000 mo,2 kg,Guida alle Razze
+36-55,Ferri della Gloria,Oggetto Maggiore Inferiore Slot Piedi,Piedi,39.600 mo,6 kg,Guida all'Equipaggiamento
+56-75,Stivali dello Scassinatore Maggiori,Oggetto Maggiore Inferiore Slot Piedi,Piedi,46.000 mo,"0,25 kg",Guida all'Equipaggiamento
+76-100,Stivali del Teletrasporto,Oggetto Maggiore Inferiore Slot Piedi,Piedi,49.000 mo,"1,5 kg",Manuale di Gioco
+d%,Oggetto Maggiore Superiore,Prezzo,Peso,Fonte,,
+01-40,Pantofole del Tritone,Oggetto Maggiore Superiore Slot Piedi,Piedi,56.000 mo,"0,5 kg",Guida alle Razze
+41-70,Ferri dei Colpi Schiaccianti +4,Oggetto Maggiore Superiore Slot Piedi,Piedi,64.000 mo,2 kg,Guida alle Razze
+-,Stivali delle Sette Leghe,Oggetto Maggiore Superiore Slot Piedi,Piedi,80.000 mo,1 kg,Avventure Mitiche
+71-100,Ferri dei Colpi Schiaccianti +5,Oggetto Maggiore Superiore Slot Piedi,Piedi,100.000 mo,2 kg,Guida alle Razze

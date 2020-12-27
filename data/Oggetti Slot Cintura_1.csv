@@ -1,0 +1,61 @@
+d%,Oggetto Minore Inferiore,Prezzo,Peso,Fonte,Unnamed: 5,Unnamed: 6
+01-16,Cintura Acrobatica,Oggetto Minore Inferiore Slot Cintura,Cintura,800 mo,"0,5 kg",Guida all'Equipaggiamento
+17-28,Bandoliera Vantaggiosa,Oggetto Minore Inferiore Slot Cintura,Cintura,1.000 mo,1 kg,Guida all'Equipaggiamento
+29-40,Cintura Meridiana,Oggetto Minore Inferiore Slot Cintura,Cintura,1.000 mo,"0,5 kg",Guida alle Razze
+-,Cintura delle Manovre Superiori +1,Oggetto Minore Inferiore Slot Cintura,Cintura,1.000 mo,"0,5 kg",Guida alle Classi
+41-54,Cintura a Lama,Oggetto Minore Inferiore Slot Cintura,Cintura,2.000 mo,"1,5 kg",Guida all'Equipaggiamento
+55-70,Cintura del Carico Pesante,Oggetto Minore Inferiore Slot Cintura,Cintura,2.000 mo,"1,5 kg",Guida all'Equipaggiamento
+71-84,Fusciacca Acquatica,Oggetto Minore Inferiore Slot Cintura,Cintura,2.600 mo,-,Guida all'Equipaggiamento
+85-100,Cintura Equestre,Oggetto Minore Inferiore Slot Cintura,Cintura,3.200 mo,"0,5 kg",Guida all'Equipaggiamento
+d%,Oggetto Minore Superiore,Prezzo,Peso,Fonte,,
+01-18,Cintura della Forza del Gigante +2,Oggetto Minore Superiore Slot Cintura,Cintura,4.000 mo,"0,5 kg",Manuale di Gioco
+19-36,Cintura dell'AgilitÃ +2,Oggetto Minore Superiore Slot Cintura,Cintura,4.000 mo,"0,5 kg",Manuale di Gioco
+37-54,Cintura del Vigore +2,Oggetto Minore Superiore Slot Cintura,Cintura,4.000 mo,"0,5 kg",Manuale di Gioco
+55-62,Cintura dei Denti,Oggetto Minore Superiore Slot Cintura,Cintura,4.000 mo,"1,5 kg",Guida all'Equipaggiamento
+63-74,Cintura del Ripristino,Oggetto Minore Superiore Slot Cintura,Cintura,5.000 mo,1 kg,Guida all'Equipaggiamento
+75-84,Cintura Piaga del Ratto,Oggetto Minore Superiore Slot Cintura,Cintura,5.200 mo,"0,5 kg",Guida all'Equipaggiamento
+85-100,Cintura del Foraggiamento,Oggetto Minore Superiore Slot Cintura,Cintura,6.000 mo,"0,5 kg",Guida alle Razze
+d%,Oggetto Medio Inferiore,Prezzo,Peso,Fonte,,
+-,Cintura delle Manovre Superiori +2,Oggetto Medio Inferiore Slot Cintura,Cintura,8.000 mo,"0,5 kg",Guida alle Classi
+01-04,Cintura del Serpente,Oggetto Medio Inferiore Slot Cintura,Cintura,9.000 mo,"0,5 kg",Guida all'Equipaggiamento
+05-08,Cintura della Scimmia,Oggetto Medio Inferiore Slot Cintura,Cintura,9.400 mo,"0,5 kg",Guida all'Equipaggiamento
+09-16,Cintura della Potenza Fisica +2,Oggetto Medio Inferiore Slot Cintura,Cintura,10.000 mo,"0,5 kg",Manuale di Gioco
+17-22,Cintura della Donnola,Oggetto Medio Inferiore Slot Cintura,Cintura,10.000 mo,"0,5 kg",Guida all'Equipaggiamento
+23-27,Cintura della Carica Tonante,Oggetto Medio Inferiore Slot Cintura,Cintura,10.000 mo,"0,5 kg",Guida all'Equipaggiamento
+28-32,Cintura del Minotauro,Oggetto Medio Inferiore Slot Cintura,Cintura,11.000 mo,"0,5 kg",Guida all'Equipaggiamento
+33-36,Cintura Piaga del Ratto Superiore,Oggetto Medio Inferiore Slot Cintura,Cintura,11.200 mo,"0,5 kg",Guida all'Equipaggiamento
+37-41,Cintura dell'Equilibrio,Oggetto Medio Inferiore Slot Cintura,Cintura,12.000 mo,"0,5 kg",Guida all'Equipaggiamento
+42-46,Cintura della Sicurezza,Oggetto Medio Inferiore Slot Cintura,Cintura,12.500 mo,"0,5 kg",Guida all'Equipaggiamento
+47-51,Cintura del Lancio Potente Minore,Oggetto Medio Inferiore Slot Cintura,Cintura,14.000 mo,"0,5 kg",Guida all'Equipaggiamento
+52-57,Cintura Nanica,Oggetto Medio Inferiore Slot Cintura,Cintura,14.900 mo,"0,5 kg",Manuale di Gioco
+58-61,Cordone della Determinazione Ostinata,Oggetto Medio Inferiore Slot Cintura,Cintura,15.000 mo,"0,5 kg",Guida all'Equipaggiamento
+62-71,Cintura della Forza del Gigante +4,Oggetto Medio Inferiore Slot Cintura,Cintura,16.000 mo,"0,5 kg",Manuale di Gioco
+72-80,Cintura della Perfezione Fisica +2,Oggetto Medio Inferiore Slot Cintura,Cintura,16.000 mo,"0,5 kg",Manuale di Gioco
+81-90,Cintura dell'AgilitÃ +4,Oggetto Medio Inferiore Slot Cintura,Cintura,16.000 mo,"0,5 kg",Manuale di Gioco
+91-100,Cintura del Vigore +4,Oggetto Medio Inferiore Slot Cintura,Cintura,16.000 mo,"0,5 kg",Manuale di Gioco
+d%,Oggetto Medio Superiore,Prezzo,Peso,Fonte,,
+01-12,Cintura della Scimmia Superiore,Oggetto Medio Superiore Slot Cintura,Cintura,18.000 mo,"0,5 kg",Guida all'Equipaggiamento
+-,Cintura delle Manovre Superiori +3,Oggetto Medio Superiore Slot Cintura,Cintura,18.000 mo,"0,5 kg",Guida alle Classi
+13-26,Spire dell'Anaconda,Oggetto Medio Superiore Slot Cintura,Cintura,18.500 mo,"0,5 kg",Guida all'Equipaggiamento
+27-38,Cintura del Serpente Superiore,Oggetto Medio Superiore Slot Cintura,Cintura,20.000 mo,"0,5 kg",Guida all'Equipaggiamento
+39-53,Cintura degli Eroi Caduti,Oggetto Medio Superiore Slot Cintura,Cintura,21.000 mo,"0,5 kg",Guida all'Equipaggiamento
+54-67,Cintura della Gorgone,Oggetto Medio Superiore Slot Cintura,Cintura,23.000 mo,"0,5 kg",Guida all'Equipaggiamento
+68-84,Cintura Elementale della Terra,Oggetto Medio Superiore Slot Cintura,Cintura,24.000 mo,"1,5 kg",Guida all'Equipaggiamento
+85-100,Fusciacca dell'Acqua Corrente,Oggetto Medio Superiore Slot Cintura,Cintura,25.000 mo,"1,5 kg",Guida all'Equipaggiamento
+d%,Oggetto Maggiore Inferiore,Prezzo,Peso,Fonte,,
+01-12,Cintura della Forma di Marinide,Oggetto Maggiore Inferiore Slot Cintura,Cintura,32.000 mo,1 kg,Guida all'Equipaggiamento
+-,Cintura delle Manovre Superiori +4,Oggetto Maggiore Inferiore Slot Cintura,Cintura,32.000 mo,"0,5 kg",Guida alle Classi
+13-30,Cintura della Forza del Gigante +6,Oggetto Maggiore Inferiore Slot Cintura,Cintura,36.000 mo,"0,5 kg",Manuale di Gioco
+31-48,Cintura dell'AgilitÃ +6,Oggetto Maggiore Inferiore Slot Cintura,Cintura,36.000 mo,"0,5 kg",Manuale di Gioco
+49-66,Cintura del Vigore +6,Oggetto Maggiore Inferiore Slot Cintura,Cintura,36.000 mo,"0,5 kg",Manuale di Gioco
+-,Cintura Riflettente,Oggetto Maggiore Inferiore Slot Cintura,Cintura,36.000 mo,1 kg,Avventure Mitiche
+67-88,Cintura della Potenza Fisica +4,Oggetto Maggiore Inferiore Slot Cintura,Cintura,40.000 mo,"0,5 kg",Manuale di Gioco
+89-100,Cintura del Lancio Potente Superiore,Oggetto Maggiore Inferiore Slot Cintura,Cintura,42.000 mo,"0,5 kg",Guida all'Equipaggiamento
+d%,Oggetto Maggiore Superiore,Prezzo,Peso,Fonte,,
+-,Cintura delle Manovre Superiori +5,Oggetto Maggiore Superiore Slot Cintura,Cintura,50.000 mo,"0,5 kg",Guida alle Classi
+01-25,Cintura della Pelle di Pietra,Oggetto Maggiore Superiore Slot Cintura,Cintura,60.000 mo,5 kg,Guida alle Razze
+-,Cintura della StabilitÃ,Oggetto Maggiore Superiore Slot Cintura,Cintura,60.000 mo,5 kg,Avventure Mitiche
+26-55,Cintura della Perfezione Fisica +4,Oggetto Maggiore Superiore Slot Cintura,Cintura,64.000 mo,"0,5 kg",Manuale di Gioco
+56-75,Cintura della Potenza Fisica +6,Oggetto Maggiore Superiore Slot Cintura,Cintura,90.000 mo,"0,5 kg",Manuale di Gioco
+76-90,Cintura della Forma d'Ombra,Oggetto Maggiore Superiore Slot Cintura,Cintura,110.000 mo,"0,5 kg",Guida all'Equipaggiamento
+91-100,Cintura della Perfezione Fisica +6,Oggetto Maggiore Superiore Slot Cintura,Cintura,144.000 mo,"0,5 kg",Manuale di Gioco
