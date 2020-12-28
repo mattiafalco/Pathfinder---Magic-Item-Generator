@@ -1,2 +1,5 @@
 # PyCharm folder
 .idea/
+
+# Jupiter Notebook checkpoints
+.ipynb_checkpoints/
