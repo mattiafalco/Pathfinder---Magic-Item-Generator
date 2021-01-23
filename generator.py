@@ -89,7 +89,7 @@ class generator(object):
         :return: string, correct file for the given item
         """
         legend = {'Anelli':'direct', 'Armature':'special', 'Armi':'special',
-                  'Bacchette':'indirect', 'Bastoni':'direct', 'Oggetti meravigliosi':'direct',
+                  'Bacchette':'indirect', 'Bastoni':'direct', 'Oggetti meravigliosi':'special',
                   'Pergamene':'indirect', 'Pozioni':'indirect', 'Verghe':'direct'}
 
         # direct search
@@ -139,7 +139,20 @@ class generator(object):
         return file
 
     def special_search(self, type_item, type):
-        pass
+
+        # Oggetti meravigliosi
+        if type_item == 'Oggetti meravigliosi':
+            subtype = random.choice(['inferiori', 'superiori'])
+            body_df = pd.read_csv('clean_data/Tabella_corpo.csv')
+            body = self.get_random_object(body_df)[-1]
+
+            if body != 'Senza Slot':
+                file = 'Oggetti_Slot_' + body + '_' + self.convert_type(type) + '_' + subtype + '.csv'
+            else:
+                body = body.replace(' ', '_')
+                file = 'Oggetti_' + body + '_' + self.convert_type(type) + '_' + subtype + '.csv'
+
+            return file
 
 
     def convert_type(self, type):
@@ -154,4 +167,4 @@ class generator(object):
 gen = generator('clean_data')
 
 # gen.generate_from_type('Minore')
-print(gen.get_file('Verghe', 'Medio'))
+print(gen.get_file('Oggetti meravigliosi', 'Medio'))
