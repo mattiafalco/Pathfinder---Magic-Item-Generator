@@ -1,5 +1,6 @@
 # PyCharm folder
 .idea/
+__pycache__/
 
 # Jupiter Notebook checkpoints
 .ipynb_checkpoints/
