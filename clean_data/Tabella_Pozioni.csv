@@ -1,0 +1,5 @@
+Minore Inferiore,Minore Superiore,Medio Inferiore,Medio Superiore,Maggiore Inferiore,Maggiore Superiore,Livello Incantesimo
+01-40,01-10,-,-,-,-,0
+41-100,11-60,01-25,01-10,-,-,1
+-,61-100,26-85,11-50,01-35,01-10,2
+-,-,86-100,51-100,36-100,11-10,3

@@ -1,0 +1,6 @@
+Minore Inferiore,Minore Superiore,Medio Inferiore,Medio Superiore,Maggiore Inferiore,Maggiore Superiore,Livello incantesimo
+01-40,-,-,-,-,-,0
+41-100,01-80,-,-,-,-,1
+-,81-100,01-75,01-20,-,-,2
+-,-,76-100,21-100,01-60,01-30,3
+-,-,-,-,61-100,31-100,4

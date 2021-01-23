@@ -27,7 +27,10 @@ class generator(object):
                 self.list_dir.append(dir)
         self.list_dir.sort()
 
-    def generate(self):
+    def generate(self, num_dice, dice):
+        pass
+
+    def generate_multiple_items(self, num_dice, dice, type):
         pass
 
     def generate_from_type(self, type):
@@ -38,6 +41,7 @@ class generator(object):
         type_item = type_series['Oggetto']
 
         print(type_item)
+        pass
 
     def get_random_object(self, df, manuals='all', from_column='d%'):
         """
@@ -78,7 +82,76 @@ class generator(object):
         # print(idx)
         return df.loc[idx]
 
+    def get_file(self, type_item, type):
+        """
+        :param type_item: string,type of item (Arma, ...)
+        :param type: string, (Minore, ...)
+        :return: string, correct file for the given item
+        """
+        legend = {'Anelli':'direct', 'Armature':'special', 'Armi':'special',
+                  'Bacchette':'indirect', 'Bastoni':'direct', 'Oggetti meravigliosi':'direct',
+                  'Pergamene':'indirect', 'Pozioni':'indirect', 'Verghe':'direct'}
+
+        # direct search
+        if legend[type_item] == 'direct':
+            file = self.direct_search(type_item, type)
+
+        # indirect search
+        if legend[type_item] == 'indirect':
+            file = self.indirect_search(type_item, type)
+
+        if legend[type_item] == 'special':
+            file = self.special_search(type_item, type)
+
+        return file
+
+    def direct_search(self, type_item, type):
+        """
+        :param type_item: str
+        :param type: str
+        :return: file with direct method
+        """
+        subtype = random.choice(['inferiori', 'superiori'])
+        file = type_item + '_' + self.convert_type(type) + '_' + subtype + '.csv'
+        return file
+
+    def indirect_search(self, type_item, type):
+        """
+        :param type_item: str
+        :param type: str
+        :return: file with indirect method
+        """
+        subtype = random.choice(['Inferiore', 'Superiore'])
+
+        # read table
+        ref_table = pd.read_csv('clean_data/Tabella_' + type_item + '.csv')
+
+        # estract level
+        column = type + ' ' + subtype
+        row = self.get_random_object(ref_table, from_column=column)
+        level = row.iloc[-1]
+
+        # rarity
+        rarity = random.random()
+        rarity = 'comuni' if rarity <= 0.75 else 'non_comuni'
+
+        file = type_item + '_' + rarity + '_' + 'lv' + str(level) + '.csv'
+        return file
+
+    def special_search(self, type_item, type):
+        pass
+
+
+    def convert_type(self, type):
+        if type == 'Minore':
+            return 'minori'
+        elif type == 'Medio':
+            return 'medi'
+        elif type == 'Maggiore':
+            return 'maggiori'
+
 # test code
 gen = generator('clean_data')
 
-gen.generate_from_type('Minore')
+# gen.generate_from_type('Minore')
+print(gen.get_file('Verghe', 'Medio'))
