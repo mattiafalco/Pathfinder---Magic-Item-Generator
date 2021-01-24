@@ -6,7 +6,7 @@ import os
 import pandas as pd
 import random
 
-random.seed(0)
+random.seed(42)
 
 class generator(object):
     """
@@ -27,21 +27,64 @@ class generator(object):
                 self.list_dir.append(dir)
         self.list_dir.sort()
 
-    def generate(self, num_dice, dice):
-        pass
+    def generate(self, num_dice, dice, manuals='all'):
+        """
+        generate magic items
 
-    def generate_multiple_items(self, num_dice, dice, type):
-        pass
+        :param num_dice: list of integers
+        :param dice: list of integers
+        :param manuals: list of str
+        :return: dictionary of tuples
+        """
+        results = {}
+        results['Minore'] = self.generate_multiple_items(num_dice[0], dice[0], 'Minore', manuals)
+        results['Medio'] = self.generate_multiple_items(num_dice[1], dice[1], 'Medio', manuals)
+        results['Maggiore'] = self.generate_multiple_items(num_dice[2], dice[2], 'Maggiore', manuals)
 
-    def generate_from_type(self, type):
+        return results
+
+    def generate_multiple_items(self, num_dice, dice, type, manuals='all'):
+        """ generate multiple item from the given dices"""
+        dice_results = sum([random.choice(range(1, dice+1)) for _ in range(num_dice)])
+        items = [self.generate_from_type(type, manuals) for _ in range(dice_results)]
+        return items
+        #print(dice_results)
+        #print(items)
+
+    def generate_from_type(self, type, manuals='all'):
         """
         generate item of the given type
         """
+
+        check = True
+
+        while check:
+            # load df
+            data_df, type_item = self.get_type_item(type)
+
+            # get item
+            try:
+                item = self.get_random_object(data_df, manuals)
+                check = False
+            except ValueError:
+                pass
+
+        return type_item, item
+
+    def get_type_item(self, type):
+        """ get a random type of item dataFrame"""
         type_series = self.get_random_object(self.princ_table, from_column=type)
         type_item = type_series['Oggetto']
+        # print(type_item)
 
-        print(type_item)
-        pass
+        # get correct file
+        file = self.get_file(type_item, type)
+        # print(file)
+
+        # load df
+        data_df = pd.read_csv('clean_data/' + type_item + '/' + file)
+
+        return data_df, type_item
 
     def get_random_object(self, df, manuals='all', from_column='d%'):
         """
@@ -53,8 +96,11 @@ class generator(object):
 
         # filter by manuals
         if 'Fonte' in df.columns.values:
-            filt = df['Fonte'].isin(manuals)
-            df = df.loc[filt]
+            if manuals != 'all':
+                filt = df['Fonte'].isin(manuals)
+                df = df.loc[filt]
+                if sum(filt)==0:
+                    raise ValueError
         # print(df)
 
         # get all possible choices
@@ -70,7 +116,7 @@ class generator(object):
 
         # pick a random number
         number = random.choice(avaible_choice)
-        print(number)
+        # print('Numero estratto:', number)
         # print(intervals)
 
         # find the correspondent row
@@ -88,7 +134,7 @@ class generator(object):
         :param type: string, (Minore, ...)
         :return: string, correct file for the given item
         """
-        legend = {'Anelli':'direct', 'Armature':'special', 'Armi':'special',
+        legend = {'Anelli':'direct', 'Armature':'direct', 'Armi':'direct',
                   'Bacchette':'indirect', 'Bastoni':'direct', 'Oggetti meravigliosi':'special',
                   'Pergamene':'indirect', 'Pozioni':'indirect', 'Verghe':'direct'}
 
@@ -135,6 +181,9 @@ class generator(object):
         rarity = random.random()
         rarity = 'comuni' if rarity <= 0.75 else 'non_comuni'
 
+        if type_item == 'Pergamene':
+            type_item += '_arcane'
+
         file = type_item + '_' + rarity + '_' + 'lv' + str(level) + '.csv'
         return file
 
@@ -155,6 +204,7 @@ class generator(object):
             return file
 
 
+
     def convert_type(self, type):
         if type == 'Minore':
             return 'minori'
@@ -167,4 +217,11 @@ class generator(object):
 gen = generator('clean_data')
 
 # gen.generate_from_type('Minore')
-print(gen.get_file('Oggetti meravigliosi', 'Medio'))
+# print(gen.get_file('Armi', 'Medio'))
+# print(gen.generate_from_type('Maggiore', manuals=['Manuale di Gioco']))
+# gen.generate_multiple_items(1, 6, 'Medio', manuals=['Manuale di Gioco'])
+res = gen.generate([2,2,1], [6,3,2], manuals=['Manuale di Gioco'])
+
+# print(res['Minore'])
+# print(res['Medio'])
+# print(res['Maggiore'])
