@@ -38,7 +38,7 @@ class Scraper(object):
 
         returns: tables_df, list of pd.DataFrame
         """
-        tables = scr.find_all('table', {'id': id})
+        tables = self.find_all('table', {'id': id})
         tables_df = [pd.read_html(tab.prettify('utf-8'))[0] for tab in tables]
         # [0] is needed because read_html returns a list
 
