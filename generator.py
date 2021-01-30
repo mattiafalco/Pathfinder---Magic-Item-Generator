@@ -69,6 +69,10 @@ class generator(object):
             except ValueError:
                 pass
 
+        # add price for Armi, Armature
+        #if type_item == 'Armi' or type_item == 'Armature':
+        #    pass
+
         return type_item, item
 
     def get_type_item(self, type):
@@ -125,7 +129,6 @@ class generator(object):
                 idx = key
                 break
 
-        # print(idx)
         return df.loc[idx]
 
     def get_file(self, type_item, type):
@@ -203,7 +206,8 @@ class generator(object):
 
             return file
 
-
+    def add_price(self, df, df_price):
+        pass
 
     def convert_type(self, type):
         if type == 'Minore':
@@ -224,4 +228,5 @@ res = gen.generate([2,2,1], [6,3,2], manuals=['Manuale di Gioco'])
 
 # print(res['Minore'])
 # print(res['Medio'])
-# print(res['Maggiore'])
+# for item in res['Maggiore']:
+#    print(item[1]['Oggetto'])
