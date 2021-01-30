@@ -4,3 +4,6 @@ __pycache__/
 
 # Jupiter Notebook checkpoints
 .ipynb_checkpoints/
+
+# test
+Test/
